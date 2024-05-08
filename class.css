@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  color: rgb(99, 57, 57);
+}
+</style>
+</head>
+<body>
+
+<h1 class="center">Red and center-aligned heading</h1>
+<p class="center">this car color is good.</p> 
+
+</body>
+</html>
