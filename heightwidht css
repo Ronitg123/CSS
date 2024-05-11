@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            background-color: coral;
+             height: 500px;
+             width: 500px;
+             text-align: center;
+             font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>This a height and width of an element</h2>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente animi officia eos Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium omnis dolore temporibus error vero aperiam sapiente nobis inventore, deleniti earum suscipit debitis, qui consequuntur? Labore maiores enim quae cum nostrum autem quo excepturi rem culpa. Voluptate aspernatur possimus assumenda officiis ad excepturi! Unde omnis excepturi, quas, perferendis impedit earum numquam quaerat sunt facilis quasi dolore totam! Libero, adipisci recusandae consectetur quia at minima commodi unde esse! Dicta dolorem eaque sunt illo libero fuga autem corrupti animi porro earum, iusto itaque fugiat a, tenetur temporibus aut. Vero similique inventore earum reprehenderit, natus deleniti minima possimus voluptatem praesentium mollitia temporibus at illo dolorum. Rem ex, voluptatum cupiditate consequatur repudiandae a ut sunt similique aspernatur. Libero quisquam exercitationem eaque dolor est at esse, quae nam! Explicabo dolores unde, nesciunt natus voluptates quidem assumenda deserunt provident fuga! Rem magni sapiente voluptatem, iure voluptatum fuga cumque. Laudantium asperiores blanditiis excepturi numquam    </div>
+</body>
+</html>
