@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+                div p{
+                        background-color: red;
+                }
+        </style>
+</head>
+<body>
+        <h2>This is a child selector in css</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente, illo!</p>
+        <div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nihil.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nihil.</p>
+                <section>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos, laudantium!</p>
+                </section>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, odio!</p>
+        </div>
+</body>
+</html>
