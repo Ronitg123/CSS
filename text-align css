@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+                .center{
+                        text-align: center;
+                        border: 3px solid black;       
+                }
+                img{
+                        display: block;
+                        margin-right: auto;
+                        margin-left: auto;
+                        height: 350px;
+                        width: 400px;
+                }
+        </style>
+</head>
+
+<body>
+        <h2>Text align is a very fast process</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, nam beatae ut voluptate eaque sit rerum autem
+                obcaecati sunt aspernatur!</p>
+        <div class="center">
+                <p>This text is centered.</p>
+        </div>
+        <img src="image3.jpg" alt="banana">
+</body>
+
+</html>
