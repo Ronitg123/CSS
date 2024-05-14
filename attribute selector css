@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <STYLE>
+                a {
+                        background-color: red;
+                }
+        </STYLE>
+
+</head>
+
+<body>
+        <h2>CSS [attribute] Selector</h2>
+        <p>The links with a target attribute gets a yellow background:</p>
+        <a href="https://www.amazon.in">visit to amazon.com</a>
+        <a href="https://www.w3schools.com/">visit to w3 schools.com</a>
+        <a href="https://www.flipkart.com/">visit to FLIPCART.COM</a>
+
+</body>
+
+</html>
